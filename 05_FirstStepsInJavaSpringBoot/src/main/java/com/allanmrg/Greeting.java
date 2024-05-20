@@ -1,4 +1,4 @@
-package com.allanmrg.restwithspringbootandjavaallanmrg;
+package com.allanmrg;
 
 public class Greeting {
 

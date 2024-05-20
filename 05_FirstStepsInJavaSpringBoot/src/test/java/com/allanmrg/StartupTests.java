@@ -1,4 +1,4 @@
-package com.allanmrg.restwithspringbootandjavaallanmrg;
+package com.allanmrg;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

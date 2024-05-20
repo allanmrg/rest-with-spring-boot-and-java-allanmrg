@@ -1,4 +1,4 @@
-package com.allanmrg.restwithspringbootandjavaallanmrg;
+package com.allanmrg;
 
 import java.util.concurrent.atomic.AtomicLong;
 
